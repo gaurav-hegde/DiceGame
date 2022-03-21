@@ -1,3 +1,3 @@
 # DiceGame
 
-A simple dice game from a web development course i'm doing.
+A simple dice game from the web development course i'm doing.
